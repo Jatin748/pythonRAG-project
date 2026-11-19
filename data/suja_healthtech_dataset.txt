@@ -1,0 +1,635 @@
+SUJA HEALTHTECH — COMPANY KNOWLEDGE BASE
+Source: Public information published on https://sujahealthtech.com/
+Purpose: Practice dataset for document processing, keyword search, document Q&A and RAG.
+Note: This document summarizes public website content. It is not an internal company document. Product capabilities and company figures below are represented as described on the website and may change.
+
+======================================================================
+1. COMPANY OVERVIEW
+======================================================================
+
+Suja HealthTech is a healthcare technology company. The company was formerly known as Suja Associates. Its website describes more than 25 years of healthcare technology experience and a global presence.
+
+The company develops integrated healthcare technology platforms that connect clinical, operational, administrative and financial workflows. Its solutions are intended for hospitals, clinics, laboratories, diagnostic centers, specialty care providers and healthcare networks.
+
+Suja HealthTech's stated focus is to simplify healthcare operations through AI-powered electronic medical records (EMR), hospital information management systems (HMIS), digital diagnostics and healthcare technology.
+
+The company describes its goal as building a connected healthcare ecosystem in which intelligent technology reduces friction between healthcare providers, operations and patient outcomes.
+
+Its mission is to accelerate digital transformation across hospitals, laboratories and clinics by delivering affordable, AI-powered solutions that support clinical excellence and better health outcomes.
+
+The company says it has supported healthcare organizations since 1999. Its website describes support for more than 2,500 healthcare practices across more than 13 specialties, with organizations in India, the United States and other global markets.
+
+The company website displays several scale figures, including more than 1,000 healthcare deployments, more than 2,500 practices supported, more than 50,000 active users and more than 453 professionals on its About page. The homepage also displays figures including more than 500 technology professionals and more than 10 million patient records supported. These figures are presented in different sections of the website.
+
+Suja HealthTech says its solutions help healthcare organizations optimize care delivery, reduce operational expenses, increase collections, improve patient experience, grow practices and expand access to care.
+
+The company has offices in India and the United States. Its listed India locations include Uppal SEZ and Madhapur in Hyderabad, Telangana. Its listed United States office is in Freehold, New Jersey.
+
+======================================================================
+2. COMPANY LEADERSHIP AND CONTACT
+======================================================================
+
+The company website identifies Surya Kuchimanchi as Founder, Chairman and Managing Director.
+
+The leadership page lists Moinak Bhattacharya as Chief Technology Officer and Chief Architect. It also lists leaders responsible for sales, technology and compliance, project delivery, product and program direction, revenue cycle management and other business functions.
+
+The website lists the following public contact information:
+Phone: +91 91548 29740
+Email: contact@sujainfo.com
+A contact page also displays contact@sujahealthtech.com.
+
+India office — Uppal SEZ:
+NSL Arena, SEZ Building 1, 6th Floor, Wing B, Plot No. 6, Survey No. 1, IDA, Uppal, Hyderabad – 500039, Telangana, India.
+
+India office — Madhapur:
+5th Floor, Jain Sadguru Capital Park, VIP Hills, Jaihind Enclave, Madhapur, Hyderabad – 500081, Telangana, India.
+
+United States office:
+303 Dartmouth Way, Freehold, NJ 07728, United States.
+
+The website invites healthcare organizations to contact the company to request a product demonstration.
+
+======================================================================
+3. MAIN PRODUCT AND SOLUTION AREAS
+======================================================================
+
+The website presents several major product and solution areas:
+
+1. CareAxes HMIS — a hospital management and unified digital healthcare platform.
+2. CureAxes — a hospital digital transformation platform.
+3. Gyneye — an AI-enabled digital colposcopy and cervical screening solution.
+4. SUJA AI — a clinical intelligence and healthcare AI suite.
+5. Revenue Cycle Management (RCM) — solutions for billing, claims, collections and financial performance.
+6. Healthcare Research — research management, analytics and clinical research intelligence.
+
+These products and services are presented as parts of a connected healthcare technology ecosystem.
+
+======================================================================
+4. CAREAXES HMIS
+======================================================================
+
+CareAxes is described as an AI-powered hospital management information system and a unified digital healthcare platform.
+
+The company describes CareAxes as a 12-in-1 platform that brings together hospital management, electronic medical records, AI applications, mobile applications, patient portals, telemedicine, dashboards, remote patient monitoring, quality management, sales and marketing CRM, HR and digital marketing.
+
+The platform is intended to connect patient information and hospital workflows from registration through discharge.
+
+The CareAxes website describes more than 70 integrated modules. It also highlights more than 50,000 daily transactions and NABH-ready workflows.
+
+CareAxes supports clinical, operational, administrative and financial workflows through one connected platform.
+
+Key functional areas include:
+
+A. Hospital management:
+Hospital management workflows include patient registration, outpatient department (OPD), inpatient department (IPD), billing, pharmacy, laboratory, radiology and administration.
+
+B. Electronic medical records:
+EMR functionality supports specialty-focused digital medical records, structured clinical documentation and access to patient records across departments.
+
+C. AI suite:
+The AI suite is designed to support clinical documentation, workflow automation and decision-support-related applications.
+
+D. Mobile application and patient portal:
+The platform includes mobile and patient-facing capabilities as part of its connected healthcare ecosystem.
+
+E. Telemedicine:
+Telemedicine supports remote consultations and access to healthcare beyond the physical hospital.
+
+F. Dashboards:
+Dashboards provide visibility into clinical and operational information, including hospital activity and performance.
+
+G. Remote patient monitoring:
+Remote patient monitoring is included among the platform's connected solution areas.
+
+H. Quality management:
+Quality management features support healthcare quality processes, regulatory requirements and operational oversight.
+
+I. Human resources:
+HR capabilities are included as one of the platform's integrated areas.
+
+J. CRM and digital marketing:
+The platform also identifies sales and marketing CRM and digital marketing as parts of its broader solution offering.
+
+CareAxes is designed for hospitals, clinics and multi-location healthcare networks. The platform supports centralized administration, user management, reporting and operational oversight across multiple locations.
+
+The company describes support for healthcare system integration through HL7, FHIR, ABDM, APIs and third-party integrations.
+
+======================================================================
+5. HOSPITAL AND CLINICAL WORKFLOWS
+======================================================================
+
+The company's website describes multiple clinical and administrative workflows.
+
+Electronic Medical Records (EMR):
+EMR functionality provides centralized digital medical records with specialty-specific workflows. Clinical information can be captured in structured formats and accessed by authorized care teams.
+
+Inpatient Department (IPD) management:
+IPD workflows include discharge summary documentation, real-time bed management, patient monitoring, shift planning and integrated billing.
+
+Outpatient Department (OPD):
+OPD workflows support patient visits and consultation-related processes.
+
+Operation Theatre Management:
+Operation theatre workflows include surgical kit availability tracking, operation theatre scheduling, staff coordination and procedure-wise resource planning.
+
+Pharmacy and inventory:
+Supply chain workflows include pharmacy, inventory, procurement and store management. The website describes real-time stock tracking, medication tracking and inventory reporting.
+
+Billing Management:
+Billing workflows include cash billing, multi-visit billing, payment gateway integration, financial reporting and transaction management.
+
+Insurance Management:
+Insurance workflows include third-party administrator (TPA) tracking, approval workflows, claims management and audit-ready documentation.
+
+Laboratory Management:
+Laboratory workflows include sample management, test management, laboratory reporting, quality control and laboratory equipment integration.
+
+Radiology and imaging:
+Radiology and imaging workflows support diagnostic services and related reporting and operational processes.
+
+Women's and child health:
+The platform supports maternity, obstetrics, paediatric and women's health workflows.
+
+Fertility and IVF:
+The company describes workflows designed for fertility and reproductive care centers, including clinical and operational coordination.
+
+Oncology:
+Oncology workflows support treatment coordination, follow-up and longitudinal patient management.
+
+Urology:
+Urology workflows support specialty consultations, procedures, clinical documentation and continuity of care.
+
+Cardiology:
+Cardiology workflows cover consultations, investigations, procedures and long-term care.
+
+ENT:
+Ear, nose and throat workflows support consultations, procedure scheduling and clinical documentation.
+
+General medicine:
+General medicine workflows support outpatient and inpatient care from consultation through diagnosis and treatment planning.
+
+Orthopaedics:
+Orthopaedic workflows support consultations, surgical planning and post-treatment follow-up.
+
+Rehabilitation management:
+Rehabilitation workflows support therapy scheduling, progress tracking and coordinated care planning.
+
+======================================================================
+6. CUREAXES
+======================================================================
+
+CureAxes is presented on the company website as a hospital digital transformation solution.
+
+It is part of the company's broader connected healthcare platform offering. The website describes it as an integrated digital health platform intended to help healthcare organizations modernize operations and patient engagement.
+
+The company's overall product ecosystem is designed to connect healthcare workflows and reduce disconnected systems. CureAxes is listed alongside CareAxes, Gyneye, SUJA AI, Revenue Cycle Management and Research.
+
+The public website does not provide every technical implementation detail of CureAxes. Questions about internal architecture, programming languages, databases or deployment configuration should not be answered as facts unless those details are available from an official technical source.
+
+======================================================================
+7. GYNEYE — DIGITAL COLPOSCOPY AND CERVICAL SCREENING
+======================================================================
+
+Gyneye is described as a smart colposcope and AI-powered cervical screening solution for obstetrics and gynaecology.
+
+The solution combines high-definition cervical imaging with AI-assisted analysis. It is designed to connect with antenatal care, ultrasound (USG) and fertility modules.
+
+The women's and child health page describes Gyneye as an advanced digital colposcopy solution that supports standardized assessments, documentation and clinical decision-making.
+
+Digital colposcopy:
+Gyneye supports the capture of high-quality cervical images for examination and clinical documentation.
+
+Swede Score:
+The website identifies Swede Score as a methodology integrated into the solution to standardize cervical lesion assessment.
+
+AI voice dictation:
+AI voice dictation is listed among the capabilities supporting clinical documentation.
+
+Clinical workflow:
+Gyneye is positioned as part of a connected women's healthcare workflow rather than only an isolated imaging device.
+
+The solution is intended to support early detection and preventive care programs. It is designed for obstetrics and gynaecology practices and women's healthcare providers.
+
+The website describes connections with antenatal care, USG and fertility modules.
+
+======================================================================
+8. SUJA AI — CLINICAL INTELLIGENCE
+======================================================================
+
+SUJA AI is described as an intelligent healthcare AI assistant and clinical intelligence suite.
+
+Its purpose is to bring AI into clinical, financial, administrative and specialty healthcare workflows through intelligent documentation, voice interactions and workflow automation.
+
+The company presents several AI-enabled capabilities:
+
+A. Suja Scribe:
+Suja Scribe supports ambient documentation and clinical dictation. It is described as transforming clinician-patient conversations and voice dictation into structured clinical notes through automated clinical documentation.
+
+B. Suja Consult Letter:
+Suja Consult Letter supports the generation of consultation and referral letters from patient records. It uses auto-populated templates and can adapt tone to the referring relationship.
+
+C. Suja Synopsis:
+Suja Synopsis generates concise patient record summaries. It brings relevant clinical information together into a single view to help clinicians review information before consultations.
+
+D. Suja Fax:
+Suja Fax supports intelligent fax processing. It is described as identifying, processing and routing inbound healthcare fax documents to the appropriate patient record through intelligent document processing.
+
+E. Clinical documentation:
+AI-assisted clinical documentation helps convert voice or conversation-based information into structured notes.
+
+F. Workflow intelligence:
+The SUJA AI suite is positioned to automate healthcare workflows and support clinical, financial and administrative processes.
+
+G. Voice interactions:
+Voice-related features support dictation and documentation workflows.
+
+The company positions its AI tools as assistants for healthcare professionals and operational teams. AI-generated documentation and analysis should be treated as support for professional workflows, not as a replacement for qualified clinical judgment.
+
+======================================================================
+9. REVENUE CYCLE MANAGEMENT (RCM)
+======================================================================
+
+Revenue Cycle Management is one of the company's major solution areas.
+
+RCM focuses on the financial processes associated with healthcare services. The company's website describes capabilities for optimizing claims, billing, collections and financial performance while reducing revenue leakage.
+
+The website describes the following RCM-related activities:
+
+- Billing management.
+- Insurance and third-party administrator tracking.
+- Claims submission and management.
+- Approval workflows.
+- Denial management.
+- Collections monitoring.
+- Revenue analytics.
+- Payer performance analysis.
+- Financial trend analysis.
+- Claims validation and revenue-cycle support.
+
+The objective of RCM is to improve financial visibility, reduce avoidable claim problems and support faster and more effective reimbursement workflows.
+
+RCM analytics can help healthcare organizations review revenue, billing, collections, claims, payer performance and financial trends through consolidated dashboards.
+
+The company's website describes AI-assisted billing and revenue cycle management as ways to strengthen the revenue cycle through cleaner claims, fewer denials and faster reimbursements.
+
+======================================================================
+10. HEALTHCARE RESEARCH AND RESEARCH INTELLIGENCE
+======================================================================
+
+Suja HealthTech presents healthcare research as a solution area, particularly for fertility, IVF and obstetrics and gynaecology (OB-GYN) care.
+
+The company's research platform is described as an EMR-driven clinical research platform. It aims to transform care delivery data into an AI-ready research data layer.
+
+The website describes a model that connects patient care, data capture, AI processing, clinical trials and real-world evidence.
+
+The research model has three related layers:
+
+1. Operational EMR:
+The EMR acts as the system of record for care delivery. It includes CareAxes workflows, live clinical encounters, IVF and OB-GYN data, and transactional care delivery.
+
+2. Analytics and reporting layer:
+This layer provides structured insight for operational visibility. It includes dashboards, trend analysis, structured reporting and practice-level insights.
+
+3. Research data layer:
+This layer supports AI-ready research intelligence. It includes a clinical replica, AI-enriched data, data exploration and LLM-ready workflows.
+
+Research-related capabilities described on the website include:
+
+AI data enrichment:
+Clinical content can be normalized and structured for research workflows.
+
+Cohort reasoning:
+LLM-driven exploration and protocol logic can support candidate discovery.
+
+Predictive feasibility:
+The platform describes estimating likely patient availability and protocol fit before a clinical trial begins.
+
+Real-time matching:
+The system can support the identification of potentially eligible patients during live encounters.
+
+Outcome intelligence:
+The platform describes research analysis and real-world evidence using longitudinal data.
+
+Structured clinical data capture:
+Examination and consultation information can be captured as structured clinical data to support research documentation and longitudinal studies.
+
+De-identified AI model training:
+The website describes historical, de-identified clinical images and examination data as supporting AI model training, validation and continuous model development.
+
+HL7 and FHIR interoperability:
+Structured clinical data can be exchanged through HL7 and FHIR standards for integration with EMRs, hospital systems and research platforms.
+
+Longitudinal clinical records:
+Long-term clinical records, examination findings and imaging data can be maintained to support follow-up studies and research datasets.
+
+The company describes the research platform as an extension of operational EMR workflows rather than a disconnected clinical-trial application.
+
+======================================================================
+11. DIAGNOSTIC CENTER SOLUTIONS
+======================================================================
+
+Suja HealthTech describes connected healthcare solutions tailored for diagnostic centers.
+
+The solutions are intended to support laboratory services, diagnostic imaging, patient engagement and business operations.
+
+Laboratory management:
+Laboratory management supports testing, reporting and quality management.
+
+Sample management:
+Sample management tracks patient samples from collection through report delivery.
+
+Test management:
+Test management supports routine and specialized laboratory tests.
+
+Laboratory reporting:
+Laboratory reporting supports digital review, validation and release of reports.
+
+Quality control:
+Quality control capabilities support laboratory quality standards.
+
+Laboratory equipment integration:
+The website describes capturing results directly from connected analyzers.
+
+Radiology and imaging:
+CareAxes Radiology and Imaging supports diagnostic imaging workflows and related operational processes.
+
+Diagnostic billing:
+Diagnostic billing supports the generation of bills for laboratory and imaging services.
+
+Insurance claims:
+Insurance claims workflows support submission and management of claims.
+
+Denial management:
+Denial management is intended to reduce claim rejections and delays.
+
+Revenue analytics:
+Revenue analytics supports tracking collections and financial performance.
+
+AI-powered diagnostics:
+AI-related capabilities include voice dictation, medical scribing, operational dashboards and business analytics.
+
+======================================================================
+12. ANALYTICS, DASHBOARDS AND REPORTING
+======================================================================
+
+The company describes several dashboard and reporting capabilities.
+
+Real-time operational dashboards:
+These provide visibility into patient flow, bed occupancy, departmental operations, resource utilization and hospital-wide activities.
+
+Clinical performance dashboards:
+These support monitoring clinical key performance indicators, quality indicators, treatment outcomes, specialty performance and care delivery metrics.
+
+Regulatory and clinical dashboards:
+These support tracking regulatory requirements, quality measures, audit records, incident reporting, corrective and preventive action (CAPA) tracking and accreditation reporting.
+
+RCM analytics:
+These support analysis of revenue, billing, collections, claims, payer performance and financial trends.
+
+Structured reporting:
+Structured reporting supports consistent capture and review of healthcare information.
+
+Trend analysis:
+Trend analysis helps healthcare organizations understand operational and practice-level patterns.
+
+The purpose of dashboards is to improve visibility and support operational and management decisions. The website does not publish every calculation or formula used in each dashboard.
+
+======================================================================
+13. HEALTHCARE INTEROPERABILITY AND INTEGRATIONS
+======================================================================
+
+Healthcare interoperability is an important part of the company's platform description.
+
+The website identifies HL7, FHIR, ABDM, APIs and third-party integrations as ways to connect healthcare systems.
+
+HL7:
+Health Level Seven (HL7) is a family of standards used for exchanging healthcare information between systems.
+
+FHIR:
+Fast Healthcare Interoperability Resources (FHIR) is a standard for exchanging healthcare information using structured resources and modern web-oriented approaches.
+
+ABDM:
+Ayushman Bharat Digital Mission is India's digital health ecosystem initiative. The company states that its HMIS completed ABDM M1, M2 and M3 integration milestones.
+
+The company says its ABDM integration supports interaction with ABDM components, including secure Health ID (ABHA) creation, consent-based data sharing and interoperability across healthcare providers.
+
+APIs:
+Application Programming Interfaces allow software systems to communicate and exchange information. The company identifies APIs as part of its healthcare integration approach.
+
+Third-party integrations:
+The platform describes integration with external systems and healthcare equipment. The website lists integrations such as ABDM, Tally, HR and payroll, WhatsApp and SMS, and laboratory equipment.
+
+The purpose of interoperability is to reduce disconnected systems and enable secure, standardized exchange of healthcare information.
+
+======================================================================
+14. SECURITY, PRIVACY, QUALITY AND COMPLIANCE
+======================================================================
+
+The company website highlights security, privacy, quality and interoperability as important parts of its healthcare technology offering.
+
+Certifications and standards displayed on the website include:
+
+ISO/IEC 27001:
+Information Security Management.
+
+ISO 9001:
+Quality Management System.
+
+ABDM:
+The website states that ABDM M1, M2 and M3 integration milestones have been completed.
+
+HIPAA:
+The website identifies HIPAA patient data privacy and security compliance.
+
+NABH:
+The website references NABH hospital and healthcare accreditation.
+
+HL7 and FHIR:
+The website identifies HL7 and FHIR healthcare data interoperability.
+
+These standards and compliance references are presented as part of the company's trust and technology positioning.
+
+Healthcare applications can handle sensitive patient information. Systems in this domain must pay attention to access control, confidentiality, auditability, secure data exchange and appropriate handling of patient records.
+
+The public website does not provide all internal security architecture, encryption configurations, access-control implementation details or software-development procedures. Such details should not be assumed.
+
+======================================================================
+15. CUSTOMER STORIES AND IMPLEMENTATION EXAMPLES
+======================================================================
+
+The company website publishes customer stories describing implementations and healthcare workflows.
+
+Ashoka Child Development Center:
+A customer story describes a healthcare organization operating 15 rehabilitation centers. The story highlights phased go-lives, specialty-focused workflows and operational improvements.
+
+Aeva Fertility:
+The website describes a CareAxes implementation for a fertility care organization in Hyderabad. The story highlights a four-day go-live, support for approximately 150–200 daily transactions and digital workflows across departments.
+
+Nova ENT Hospital:
+The website describes customized ENT EMR workflows, mobile purchase-order approvals for doctors and financial visibility across revenue and expenses.
+
+Sitara Medical Center:
+The website describes 23 customized specialty EMR workflows, more than 50 users trained within two weeks and support for approximately 400–500 daily appointments. The story also mentions digital queue management and improved operational visibility.
+
+The Sitara story describes replacing manual token handling with a digital Queue Management System. Customized EMR workflows were designed around different doctor requirements. The implementation aimed to improve access to clinical documentation, patient flow and administrative information.
+
+These examples illustrate the company's focus on adapting digital workflows to the needs of different healthcare organizations and specialties.
+
+======================================================================
+16. BENEFITS DESCRIBED BY THE COMPANY
+======================================================================
+
+The company identifies several intended benefits of its healthcare technology solutions.
+
+Optimize care delivery:
+Connect clinical, administrative and diagnostic workflows so care teams spend less time managing disconnected systems.
+
+Reduce operational expenses:
+Reduce duplicate data entry, automate routine tasks and consolidate disconnected tools.
+
+Increase collections:
+Support cleaner claims, fewer denials and faster reimbursements through AI-assisted billing and revenue cycle management.
+
+Improve patient experience:
+Support smoother registration, shorter wait times, digital records and proactive communication.
+
+Grow healthcare practices:
+Support analytics, multi-location management and connected systems as organizations expand.
+
+Expand access to care:
+Support telemedicine, remote consultations and mobile access beyond hospital facilities.
+
+Improve operational visibility:
+Use dashboards and reports to monitor patient flow, bed occupancy, resource utilization and financial performance.
+
+Support clinical documentation:
+Use structured EMR workflows, dictation and AI-assisted documentation to organize clinical information.
+
+======================================================================
+17. COMMON HEALTHCARE AND TECHNOLOGY TERMS
+======================================================================
+
+AI — Artificial Intelligence:
+Technology that enables software systems to perform tasks associated with human intelligence, such as language processing, pattern recognition and prediction.
+
+AI assistant:
+A software system that helps users complete tasks through language, voice or workflow interactions.
+
+EMR — Electronic Medical Record:
+A digital record of a patient's clinical information maintained within a healthcare organization.
+
+HMIS — Hospital Management Information System:
+Software used to manage hospital clinical, administrative, operational and financial workflows.
+
+HIS — Hospital Information System:
+A broad term for software systems that support hospital operations and information management.
+
+OPD — Outpatient Department:
+The part of a healthcare facility that provides consultations and services to patients who do not require inpatient admission.
+
+IPD — Inpatient Department:
+The part of a healthcare facility that manages patients admitted for treatment and care.
+
+RCM — Revenue Cycle Management:
+The processes used by healthcare organizations to manage billing, claims, collections and reimbursement.
+
+TPA — Third-Party Administrator:
+An organization that helps manage health insurance administration and related claim processes.
+
+FHIR — Fast Healthcare Interoperability Resources:
+A standard for exchanging healthcare information between systems.
+
+HL7 — Health Level Seven:
+A set of standards for exchanging electronic healthcare information.
+
+ABDM — Ayushman Bharat Digital Mission:
+India's digital health ecosystem initiative.
+
+ABHA — Ayushman Bharat Health Account:
+A digital health account identifier within India's ABDM ecosystem.
+
+NABH — National Accreditation Board for Hospitals and Healthcare Providers:
+An Indian healthcare accreditation body.
+
+HIPAA — Health Insurance Portability and Accountability Act:
+A United States law that includes requirements related to protected health information.
+
+CAPA — Corrective and Preventive Action:
+A quality-management process for addressing problems and preventing recurrence.
+
+IVF — In Vitro Fertilization:
+A fertility treatment process in which fertilization occurs outside the body.
+
+OB-GYN — Obstetrics and Gynaecology:
+The medical specialty focused on pregnancy, childbirth and women's reproductive health.
+
+USG — Ultrasonography:
+An imaging technique that uses ultrasound waves.
+
+EMR-driven research:
+A research approach that uses structured information captured through electronic medical record workflows.
+
+De-identification:
+The process of removing or transforming identifying information so data is less directly linked to an individual.
+
+LLM — Large Language Model:
+An AI model trained to understand and generate human language.
+
+API — Application Programming Interface:
+A defined way for software systems to communicate and exchange information.
+
+======================================================================
+18. PRACTICE QUESTIONS FOR DOCUMENT Q&A
+======================================================================
+
+The following questions can be used to test a document question-answering application.
+
+1. What is Suja HealthTech?
+2. What was the company's former name?
+3. Where are the company's India offices located?
+4. Who is the Founder, Chairman and Managing Director?
+5. What is CareAxes HMIS?
+6. How many integrated modules does the CareAxes page describe?
+7. What are the major areas included in the CareAxes platform?
+8. What is the purpose of an EMR?
+9. What is the difference between OPD and IPD?
+10. What workflows are supported by Operation Theatre Management?
+11. What is Gyneye?
+12. What is the Swede Score?
+13. What is SUJA AI?
+14. What does Suja Scribe do?
+15. What is the purpose of Suja Synopsis?
+16. How does Suja Fax support document processing?
+17. What is Revenue Cycle Management?
+18. What activities are included in RCM?
+19. What is the purpose of healthcare research intelligence?
+20. What are the three layers described in the research model?
+21. What is AI data enrichment?
+22. What is cohort reasoning?
+23. What is predictive feasibility?
+24. What is real-time matching?
+25. How does the company describe de-identified AI model training?
+26. What is the purpose of HL7 and FHIR?
+27. What does ABDM stand for?
+28. What are the ABDM integration milestones mentioned by the company?
+29. What is the purpose of laboratory sample management?
+30. What are real-time operational dashboards used for?
+31. What is the purpose of clinical performance dashboards?
+32. What certifications and standards are displayed on the website?
+33. What does the Sitara Medical Center customer story describe?
+34. What workflows were customized for Nova ENT Hospital?
+35. What benefits does the company associate with connected healthcare workflows?
+
+======================================================================
+19. FACTS THAT SHOULD NOT BE ASSUMED
+======================================================================
+
+This is a public-information practice dataset. It does not provide internal employee information, confidential customer records, patient-level data, private source code, internal architecture diagrams, exact database schemas, internal API endpoints, employee salaries, hiring decisions or unpublished project details.
+
+The public website does not establish that every product uses a particular programming language, framework, cloud provider, vector database or large language model. Do not infer a specific internal technology stack unless an official technical source confirms it.
+
+The website describes product capabilities and intended benefits. A product description does not guarantee a specific result for every customer or implementation.
+
+When an answer is not present in this dataset, a document Q&A system should say that the information is not available in the provided document instead of inventing an answer.
+
+END OF SUJA HEALTHTECH COMPANY KNOWLEDGE BASE
